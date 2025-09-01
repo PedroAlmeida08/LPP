@@ -1,5 +1,5 @@
-// mpicc -o prog prog.c
-// mpirun -n 4 prog
+// mpicc -o mpi_simples mpi_simples.c
+// mpirun -n 4 mpi_simples
 
 #include <stdio.h>
 #include <string.h>
