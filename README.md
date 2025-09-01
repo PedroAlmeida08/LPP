@@ -47,7 +47,7 @@ Este programa executa funções essenciais para iniciar, executar uma comunicaç
 - MPI_ANY_SOURCE: recebe uma mensagem de qualquer fonte
 - MPI_ANY_TAG: recebe uma mensagem com qualquer tag
 
-## mpi_simples_v2.c (aula02)
+## mpi_simples_v2.c
 
 Utiliza MPI_ANY_SOURCE para que, não necessariamente, as mensagens sejam recebidas na ordem.
 
