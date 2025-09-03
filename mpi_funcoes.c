@@ -1,5 +1,6 @@
-// mpicc -o MPI_funcoes MPI_funcoes.c
-// mpirun -n 1 MPI_funcoes
+// mpicc -o mpi_funcoes mpi_funcoes.c
+// mpirun -n 1 mpi_funcoes
+
 #include <stdio.h>
 #include "mpi.h"
 
