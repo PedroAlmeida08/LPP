@@ -1,5 +1,5 @@
-// mpicc -o MPI_Wtime MPI_Wtime.c
-// mpirun -n 1 MPI_Wtime
+// mpicc -o mpi_wtime mpi_wtime.c
+// mpirun -n 1 mpi_wtime
 
 #include "mpi.h"
 #include <stdio.h>
