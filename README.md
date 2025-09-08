@@ -1,2 +1,2 @@
-# LPP
-Repositório utilizado para gerenciar códigos da disciplina TCC00344 - LABORATÓRIO DE PROGRAMAÇÃO PARARELA do curso de Bacharelado em Ciência da Computação da Universidade Federal Fluminens (UFF)
+## mpi_trapezio2.c
+Alteração da função de cálculo da integral para operar sobre o intervalo [a + q *(n*h)/p, (q + 1) * (n * h)/p].
