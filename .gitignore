@@ -1,1 +1,5 @@
-*.o
+# Ignora todos os arquivos
+*
+
+# Mas não ignore os arquivos com a extensão .c
+!*.c
